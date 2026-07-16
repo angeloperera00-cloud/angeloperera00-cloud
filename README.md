@@ -2,7 +2,7 @@
 
 👨🏽‍💻 iOS Developer & Apple Developer Academy graduate University of Naples Federico II
 📱 Freelance iOS developer with 4+ years of experience shipped **60+ apps** across iOS, visionOS, watchOS and Apple TV.<br>
-🎮 Game developer — Unity/C# and SpriteKit.<br>
+🎮 Game developer Unity/C# and SpriteKit.<br>
 🎥 Teaching iOS & programming on YouTube to a **100K+ combined audience**.<br>
 
 
