@@ -12,6 +12,7 @@
 )
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://fiverr.com/YOUR_FIVERR)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR_UPWORK)
 
 # 💻 Tech Stack:
 
